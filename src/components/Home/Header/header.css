@@ -1,0 +1,17 @@
+
+h3 {
+    letter-spacing: 0.8px;
+    font-weight: 400;
+}
+
+.headerWrapper {
+    padding: 5px 0;
+    background-color: #F2F1EF;
+    text-align: center;
+}
+
+.userName {
+    text-transform: uppercase;
+    color: #446CB3;
+    font-weight: 600;
+}
